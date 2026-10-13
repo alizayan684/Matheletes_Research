@@ -8,7 +8,7 @@ Welcome to the repository for our groundbreaking research project, which recentl
 Our project focuses on the comparative study of two techniques designed to enhance A* algorithm paths: Voronoi fields and the innovative Sandwich approach. 
 
 # Paper & Poster
-The complete research paper offers in-depth insights into our comparative study, encompassing the methodology employed to comprehend the experiments and analyze the results obtained. You can check our full paper through this link: [Our Paper](https://drive.google.com/file/d/1uRlTHcDGX71wG4YobANlkK_GN0kfTTNw/view?usp=drive_link)  .
+The complete research paper offers in-depth insights into our comparative study, encompassing the methodology employed to comprehend the experiments and analyze the results obtained. You can check our full paper through this link: [Our Paper] https://www.researchgate.net/publication/405401626_Beyond_A_A_Novel_Comparison_of_Voronoi_Potential_Fields_and_Sandwich_Approach_for_Optimal_Path_Planning?channel=doi&linkId=6a184cfd73360e7d84768e48&showFulltext=true)  .
 You also can check our poster through this link: [Our Poster](https://drive.google.com/file/d/1XOlcWPE4zNJpThivh6d5xlU_19zWkXlq/view?usp=drive_link). 
 
 
